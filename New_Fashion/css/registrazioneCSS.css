@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	padding: 10px;
+	background: #ddd;
+}
+#container{
+	min-height: 1000px;
+	background: #fff;
+	padding: 30px;
+}
+body,footer{
+	margin: 0 auto;
+	width: 1500px;
+}
+header,footer{
+	height: 120px;
+	background: #ff8533;
+}
+header a{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+	float: right;
+	margin: 10px;
+	color: #000;
+	position: relative;
+	top: 80px;
+}
+header a:hover,footer a:hover{
+	text-decoration: underline;
+}
+#logo{
+	position: relative;
+	top: 10px;
+	left: 20px;
+}
+#nav{
+	height: 40px;
+	background: #666;
+}
+#nav a{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	float: left;
+	color: #fff;
+	margin: 10px 90px;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 18px;
+}
+#scritte{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 24px;
+	margin: 20px;
+}
+form p{
+	text-decoration: underline;
+}
+strong{
+	text-transform: uppercase;
+}
+form{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	margin: 40px 20px 20px 20px;
+}
+select{
+	text-transform: capitalize;
+}
+.error{
+	color: #FF0000;
+}
+.bottone{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    padding: 7px 7px;
+	font-size: 16px;
+	margin: 20px 20px 20px 100px;
+}
+footer a{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: none;
+	margin: 20px;
+	color: #000;
+	position: relative;
+	top: 50px;
+	left: 400px;
+}
