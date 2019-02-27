@@ -9,4 +9,4 @@ With this project i have lerned:
 * Cookie client side use
 
 this is a not resposive web site, work well only from desktop
-I have deplyed this using apache and tomcat on a linux machine
+I have deployed this using apache and tomcat on a linux machine
