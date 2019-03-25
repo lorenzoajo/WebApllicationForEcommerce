@@ -1,6 +1,6 @@
 # WebApllicationForEcommerce
 I developed this application for an assignament a university.  
-With this project i have lerned:  
+With this project i have learned:  
 * html
 * css
 * javascript
